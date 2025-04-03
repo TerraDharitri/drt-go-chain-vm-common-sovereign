@@ -1,0 +1,1 @@
+# drt-go-chain-vm-common-sovereign
